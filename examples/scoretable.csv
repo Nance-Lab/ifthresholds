@@ -1,0 +1,22 @@
+Threshold_method,score_method,Score % off
+Li,count method,18.796992481203006
+Li,area method,21.068198644769314
+Li,overlap method,18.516159057617188
+Minimum,count method,100.0
+Minimum,area method,0.0
+Minimum,overlap method,15.195083618164062
+Triangle,count method,20.30075187969925
+Triangle,area method,22.468224148922634
+Triangle,overlap method,20.816421508789062
+isodata,count method,21.804511278195488
+isodata,area method,16.87899278811853
+isodata,overlap method,16.408157348632812
+Mean,count method,20.30075187969925
+Mean,area method,21.949681337203415
+Mean,overlap method,20.59326171875
+Otsu,count method,21.804511278195488
+Otsu,area method,16.87899278811853
+Otsu,overlap method,16.408157348632812
+Yen,count method,17.293233082706767
+Yen,area method,17.148609922271483
+Yen,overlap method,17.15087890625
