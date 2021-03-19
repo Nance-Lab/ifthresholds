@@ -1,0 +1,8 @@
+name: ifenv
+dependencies:
+  - numpy
+  - scipy
+  - matplotlib
+  - scikit-image
+  - pandas
+  - csv
